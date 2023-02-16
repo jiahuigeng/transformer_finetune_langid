@@ -2,3 +2,5 @@
 local-pt-checkpoint/
 proc_test/
 smallbenchnlp/
+wandb
+local-checkpoint
